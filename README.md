@@ -1,6 +1,6 @@
-# 🍇 Grape Leaf Disease Detection and Pesticide Recommendation
+#  Grape Leaf Disease Detection and Pesticide Recommendation
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a deep learning-based application designed to detect diseases in grape leaves from uploaded images. The system uses a **Convolutional Neural Network (CNN)** to classify grape leaf images and provides appropriate pesticide recommendations based on the predicted disease.
 
@@ -8,7 +8,7 @@ The project also includes an interactive **Streamlit web application** where use
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Detect grape leaf diseases using deep learning.
 * Classify grape leaves into different disease categories.
@@ -18,7 +18,7 @@ The project also includes an interactive **Streamlit web application** where use
 
 ---
 
-## 🦠 Disease Classes
+##  Disease Classes
 
 The model can classify grape leaves into the following four categories:
 
@@ -29,7 +29,7 @@ The model can classify grape leaves into the following four categories:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * PyTorch
@@ -44,7 +44,7 @@ The model can classify grape leaves into the following four categories:
 
 ---
 
-## 🧠 Model Development
+## Model Development
 
 The project uses a **Convolutional Neural Network (CNN)** for image classification.
 
@@ -71,7 +71,7 @@ The model was trained to identify different grape leaf diseases from image data.
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 The model was evaluated using:
 
@@ -91,7 +91,7 @@ The results showed that the CNN model performed better for image classification.
 
 ---
 
-## 💻 Web Application
+##  Web Application
 
 The project includes a Streamlit application where users can:
 
@@ -103,7 +103,7 @@ The project includes a Streamlit application where users can:
 
 ---
 
-## 🌿 Pesticide Recommendations
+##  Pesticide Recommendations
 
 | Disease              | Recommendation                                                           |
 | -------------------- | ------------------------------------------------------------------------ |
@@ -114,7 +114,7 @@ The project includes a Streamlit application where users can:
 
 ---
 
-## 🚀 Application Workflow
+##  Application Workflow
 
 ```text
 Upload Grape Leaf Image
@@ -132,7 +132,7 @@ Pesticide Recommendation
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Grape-Leaf-Disease-Detection/
@@ -158,7 +158,7 @@ Grape-Leaf-Disease-Detection/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -180,7 +180,7 @@ pip install streamlit tensorflow torch torchvision numpy pandas matplotlib seabo
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 Run the following command:
 
@@ -192,7 +192,7 @@ After running the command, the application will open in your browser.
 
 ---
 
-## 📸 Application Screenshots
+## Application Screenshots
 
 Add screenshots of your application here.
 
@@ -204,7 +204,7 @@ Add screenshots of your application here.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Improve model accuracy using transfer learning.
 * Add more grape leaf disease classes.
