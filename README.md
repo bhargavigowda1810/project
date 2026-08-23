@@ -219,6 +219,6 @@ Add screenshots of your application here.
 
 ---
 
-## 📄 Conclusion
+##  Conclusion
 
 This project demonstrates the application of deep learning and computer vision in agriculture. By analyzing grape leaf images, the system helps identify diseases and provides pesticide recommendations, which can support farmers in taking early action to protect their crops.
